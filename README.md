@@ -18,4 +18,4 @@ Fue relizada haciendo un seguimiento de una lista de videos de ColmenaTec.
 
 ## Lista de videos
 
-[text](https://www.youtube.com/playlist?list=PLRFOqDrY-6nuARVPDuYRG9uupN1eSRcX7)
+[Introducción React y Typescript](https://www.youtube.com/playlist?list=PLRFOqDrY-6nuARVPDuYRG9uupN1eSRcX7)
